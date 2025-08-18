@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #4d9b48;
+    color: black;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
