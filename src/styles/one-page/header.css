@@ -1,0 +1,30 @@
+.header{
+    background-color: #8a0ab2;
+    padding: 10px;
+    margin: 10px;
+
+    border-radius: 40px;
+    transition: all 0.2s ease;
+}
+
+.data-header{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 80px;
+
+    background-color: #41067b;
+    color: #7fcb74;
+    margin: 10px;
+    border-radius: 30px;
+    transition: 0.1s ease;
+}
+
+.header:hover {
+    border: 3px black solid;
+}
+
+.data-header:hover {
+    border: 2px black solid
+}
