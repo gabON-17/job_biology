@@ -1,4 +1,6 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
     margin: 0;
     padding: 0;
     background-color: #4d9b48;
@@ -6,10 +8,81 @@ body {
 }
 
 .title {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: white;
 }
 
+.sub-title {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
 .center {
     text-align: center;
+}
+
+.error {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 20px;
+    color: red;
+    background-color: rgb(0, 0, 0);
+
+    padding: 5px 15px;
+    margin-top: 20px;
+
+}
+
+
+/* FOOTER */
+.data-footer {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.line-footer {
+    margin: 0px 50px;
+}
+
+.names-footer {
+    text-align: center;
+    background-color: #69c65a;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    border: 5px #69c65a solid;
+
+    padding: 15px;
+    margin: 20px 90px;
+}
+
+.email {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background-color: #4d9b48;
+    border-radius: 20px;
+    
+    padding: 10px;
+}
+
+.email:hover {
+    background-color: #5ab354;
+    color: white;
+}
+
+.title-footer {
+    text-align: center;
+    color: black;
+}
+
+.names {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
 }
