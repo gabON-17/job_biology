@@ -27,7 +27,8 @@ body {
 
 .error {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 12px;
+    font-size: 16px;
+    text-transform: uppercase;
     text-align: center;
     border-radius: 20px;
     color: red;

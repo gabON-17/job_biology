@@ -63,7 +63,7 @@
     margin-top: 10px;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 570px) {
    .body {
       flex-direction: column;
       padding: 20px;
