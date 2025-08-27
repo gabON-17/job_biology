@@ -30,6 +30,11 @@
     padding: 1px 50px;
 }
 
+.img-banner{
+    width:60%;
+    margin:auto;
+}
+
 .content-topic{
     background: #640c7e;
     border-radius: 30px;
