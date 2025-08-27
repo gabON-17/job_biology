@@ -36,6 +36,11 @@
     color: black;
 }
 
+.img-bloco{
+    width:250px;
+    height: 250px;
+}
+
 .bottom {
     text-decoration: none;
     color: white;
